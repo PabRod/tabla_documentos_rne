@@ -2,9 +2,7 @@
 
 Algunos fans del programa Documentos RNE compartimos en Mastodon nuestra frustración con el hecho de que los episodios no sean fácilmente buscables desde el cambio a la nueva interfaz.
 
-Un usuario anónimo tuvo la amabilidad de [compartir](https://mstdn.social/@johansolo/113022338635453671) una lista de metadatos.
-Esta lista me ha sido extremadamente útil, pero no es fácil de leer ni de interpretar.
-Más contexto en [este hilo de Mastodon](https://mapstodon.space/@jorgesanz/113362099721007397).
+Si quieres saber más, echa un ojo a [este artículo](https://pabrod.github.io/documentos-rne-es.html#documentos-rne) en mi blog.
 
 Este pequeño proyecto resuelve el problema reescribiéndola en formato de tabla markdown, fácil de acceder y clicar.
 ¿No me crees?
