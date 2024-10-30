@@ -1,0 +1,52 @@
+De los 784 audios que hay en la web https://www.rtve.es/play/audios/documentos-rne/ hay 12 que no funcionan:
+
+
+
+- He conseguido encontrar 9 de ellos en Ivoox.
+
+https://ztnr.rtve.es/ztnr/419359.mp3
+https://www.ivoox.com/espanoles-hollywood-viaje-ida-y-audios-mp3_rf_46311_1.html
+
+https://ztnr.rtve.es/ztnr/1119634.mp3
+https://www.ivoox.com/documentos-rne-los-ultimos-dias-unamuno-audios-mp3_rf_1154906_1.html
+
+https://ztnr.rtve.es/ztnr/31872.mp3
+https://www.ivoox.com/joven-poesia-espanola-mira-a-generacion-audios-mp3_rf_43260_1.html
+
+https://ztnr.rtve.es/ztnr/81504.mp3
+https://www.ivoox.com/fernando-fernan-gomez-documentos-rne-audios-mp3_rf_43172_1.html
+
+https://ztnr.rtve.es/ztnr/72619.mp3
+https://www.ivoox.com/viaje-sonoro-a-mayo-del-68-documentos-rne-audios-mp3_rf_43050_1.html
+
+https://ztnr.rtve.es/ztnr/240826.mp3
+https://www.ivoox.com/primeras-olimpiadas-asiaticas-historia-documentos-audios-mp3_rf_43043_1.html
+
+https://ztnr.rtve.es/ztnr/214672.mp3
+https://www.ivoox.com/gibraltar-rocosa-disputa-documentos-rne-audios-mp3_rf_43044_1.html
+
+https://ztnr.rtve.es/ztnr/199012.mp3
+https://www.ivoox.com/juan-ramon-jimenez-30-jun-08-audios-mp3_rf_43046_1.html
+
+https://ztnr.rtve.es/ztnr/176314.mp3
+https://www.ivoox.com/juan-antonio-bardem-hombre-no-existio-audios-mp3_rf_43047_1.html
+
+Si quieres que las instrucciones para ffmpeg que hay en el otro fichero funcionen, tendrás que cambiar el nombre que te ponga ivoox por el que pongo justo encima.
+
+- Hay 3 que no funcionan en la web de RNE y que no he podido encontrar en ivoox (el de Di Stefano tiene entrada en ivoox pero no está el audio).
+
+Las economías de la Guerra Civil NOENCUENTRO
+https://ztnr.rtve.es/ztnr/82956.mp3
+https://www.rtve.es/play/audios/documentos-rne/documentos-rne-dos-economias-guerra-civil-espanola-170508/82956/
+
+Salvador Allende - 05/07/08 NOENCUENTRO
+https://ztnr.rtve.es/ztnr/208468.mp3
+https://www.rtve.es/play/audios/documentos-rne/documentos-rne-salvador-allende-050708/208468/
+
+La leyenda de la Saeta Rubia NOENCUENTRO
+https://ztnr.rtve.es/ztnr/838276.mp3
+https://www.ivoox.com/di-stefano-la-leyenda-saeta-rubia-audios-mp3_rf_727946_1.html
+
+- Hay un fichero duplicado
+La Semana Trágica de Barcelona
+1164507.mp3 y 501386.mp3 son iguales. He borrado el enlace 1164507.mp3 del listado de ficheros para descargar.

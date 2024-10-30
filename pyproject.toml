@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "docsrne"
+version = "0.1.0"
+description = ""
+authors = ["Pablo Rodríguez Sánchez <pablo.rodriguez.sanchez@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+tabulate = "^0.9.0"
+ipykernel = "^6.29.5"
+ipython = "^8.29.0"
+jupyter = "^1.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
