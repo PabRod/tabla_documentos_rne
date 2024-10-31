@@ -58,7 +58,7 @@ with open('rss.xml', 'w', encoding='utf-8') as salida:
         reader = csv.DictReader(entrada, delimiter='|', quoting=csv.QUOTE_NONE, skipinitialspace=True)
         for lin in reader:
             id = lin['id '].strip()
-            title = lin['title                                                                       '].strip()
+            title = lin['title                                                                       '].strip().replace('&nbsp;', ' ')
             mp3 = lin['mp3                                    '].strip()
             date = lin['date '].strip()
             if id.isdigit():
