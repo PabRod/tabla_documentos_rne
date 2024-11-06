@@ -14,7 +14,7 @@ Abajo tienes el resultado en formato tabla de links.
 Si lo prefieres en formato `xml`, para que sea legible para tu cliente de podcasts, dale las gracias a [elpamplina](https://github.com/PabRod/tabla_documentos_rne/pull/1) y mira [aquí](rss.xml).
 También incluye [un script](convert.py) para generarlos y actualizarlos.
 
-### `csv` y `xspf`
+### `csv`, `m3u` y `xspf`
 Cortesía de [j3j5](https://gist.github.com/j3j5), disponibles [aquí](https://gist.github.com/j3j5/317553f319cbeed10df8321e197c9993).
 
 ## Episodios y links
