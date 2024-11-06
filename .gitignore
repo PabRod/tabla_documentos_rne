@@ -1,3 +1,4 @@
 .snakemake
 .venv
 data
+table.md
