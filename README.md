@@ -6,7 +6,9 @@ Si quieres saber más, echa un ojo a [este artículo](https://pabrod.github.io/d
 
 Este pequeño proyecto resuelve el problema reescribiéndola en formato de tabla markdown, fácil de acceder y clicar.
 ¿No me crees?
-Abajo tienes el resultado:
+Abajo tienes el resultado en formato tabla.
+
+Si lo prefieres en formato `xml`, para que sea legible para tu cliente de podcasts, dale las gracias a [elpamplina](https://github.com/PabRod/tabla_documentos_rne/pull/1) y mira [aquí](rss.xml).
 
 ## Episodios y links
 
